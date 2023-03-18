@@ -2,7 +2,7 @@
 First git clone this repositopry tou your folder, and then open it and type this on your terminal
 
 ```
-yarn add <pkgname>
+yarn
 ```
 After the installation done, type this to start the app
 ```
