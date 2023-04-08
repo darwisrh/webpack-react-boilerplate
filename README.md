@@ -1,5 +1,5 @@
 ## How To Start?
-First git clone this repositopry tou your folder, and then open it and type this on your terminal
+First git clone this repositopry to your folder, and then open it and type this on your terminal
 
 ```
 yarn
